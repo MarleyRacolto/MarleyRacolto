@@ -1,6 +1,6 @@
 <h2>## Olá, me chamo Marley Racolto</h2>
 
-- 🔭 Atualmente trabalho com Suporte/Infraestrutra de TI na BTP.
+- 🔭 Atualmente trabalho com Suporte/Infraestrutura de TI na BTP.
 - 🌱 Estou me especializando em Devops.
 - 📫 Contato de e-mail: marley.racolto@gmail.com.
 
@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/angelicaweiler/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/MarleyRacolto/count.svg?"  />
 </div>
 
 ###
